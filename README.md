@@ -10,7 +10,7 @@ Required libraries:
 - `matplotlib`
 - `seaborn`
 - `scikit-learn`
-- 
+  
 ## Data Cleaning and Preprocessing
 
 ### 1. **Handling Missing Values**
